@@ -1,0 +1,3560 @@
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_FAIL', 'USER_FAIL']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_FAIL', 'USER_FAIL']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_FAIL', 'USER_FAIL']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_FAIL', 'USER_FAIL']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_FAIL', 'USER_FAIL']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_FAIL', 'USER_FAIL']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_FAIL']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_FAIL', 'USER_FAIL']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_FAIL', 'USER_FAIL']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_FAIL', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_FAIL', 'USER_FAIL', 'USER_FAIL']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_FAIL', 'USER_FAIL']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS_PART', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_FAIL', 'USER_FAIL']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_FAIL', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_FAIL', 'USER_FAIL']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_FAIL', 'USER_FAIL']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_FAIL', 'USER_FAIL', 'USER_FAIL']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_FAIL', 'USER_FAIL', 'USER_FAIL']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_FAIL', 'USER_FAIL']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_FAIL', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'CONFIRM_SHOW;USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS;EXP_RES_TYPE;EXP_RES_WIDTH;EXP_RES_DESCRIPTION;CONFIRM_SATISFACTION', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_FAIL', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_FAIL', 'USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_FAIL', 'USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'EXP_RES_ETC;USER_SUCCESS_PART;CONFIRM_SATISFACTION', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_FAIL', 'USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_FAIL', 'USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_FAIL', 'USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS_PART', 'USER_FAIL', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
+User Reward:
+['USER_SUCCESS', 'USER_FAIL', 'USER_SUCCESS_PART', 'USER_SUCCESS', 'USER_SUCCESS']
+
+--------------------------------------------------
